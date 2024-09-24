@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+petey
+# Petey
 
-Based on "ABC" at https://www.abc.com/
+> ChatGPT for iPhone, iPad & Apple Watch
+
+Based on "Petey" at https://petey.app/
 
 ## 100 - Introduction
 
