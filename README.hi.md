@@ -1,8 +1,10 @@
-भंडार-नाम
+पीटी
 
-# भंडार का नाम
+# पीटी
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+> iPhone, iPad और Apple Watch के लिए ChatGPT
+
+Based on "Petey" at <https://petey.app/>
 
 ## 100 - परिचय
 
@@ -12,7 +14,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
