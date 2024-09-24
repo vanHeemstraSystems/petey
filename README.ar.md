@@ -1,14 +1,16 @@
-اسم المستودع
+بيتي
 
-# اسم المستودع
+# Petey
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+> ChatGPT لأجهزة iPhone وiPad وApple Watch
+
+Based on "Petey" at <https://petey.app/>
 
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
