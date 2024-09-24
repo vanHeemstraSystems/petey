@@ -1,10 +1,12 @@
-nom du référentiel
+Petey
 
-# Nom du référentiel
+# Petey
 
-Based on "ABC" at <https://www.abc.com/>
+> ChatGPT pour iPhone, iPad et Apple Watch
 
-## 100 - Présentation
+Basé sur "Petey" à<https://petey.app/>
+
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -14,7 +16,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
