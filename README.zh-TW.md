@@ -1,8 +1,10 @@
-儲存庫名稱
+皮蒂
 
-# 儲存庫名稱
+# 皮蒂
 
-基於“ABC”<https://www.abc.com/>
+> 適用於 iPhone、iPad 和 Apple Watch 的 ChatGPT
+
+基於“Petey”<https://petey.app/>
 
 ## 100 - 簡介
 
@@ -14,7 +16,7 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
